@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodeChallenge2</string>
+    <string name="email_text_input_placeholder">Enter your email</string>
+    <string name="password_text_input_placeholder">Enter your password</string>
+</resources>
